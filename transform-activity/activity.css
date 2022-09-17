@@ -1,6 +1,3 @@
 main {
-    transform: skew(20deg, -5deg);
-    width: auto;
-    height: auto;
+    transform: skewX(-10deg) rotate(-10deg);
 }
-
